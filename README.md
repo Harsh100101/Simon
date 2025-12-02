@@ -64,7 +64,10 @@ git clone https://github.com/Harsh100101/Simon.git
 2. Open the folder
 3. Run `index.html` in your browser
 4. Enjoy the game!
-
+5. Live Demo!!
+```
+https://harsh100101.github.io/Simon/
+```
 ---
 
 ## 🧩 Game Logic Summary
